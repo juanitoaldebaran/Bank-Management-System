@@ -2,8 +2,8 @@ package code;
 
 public class CheckingAccount extends Account{
 
-    public CheckingAccount(int accountID, int userID, String accountNumber, double balance, AccountType type) {
-        super(accountID, userID, accountNumber, balance, type.CHECKING);
+    public CheckingAccount(int accountID, int userID, String accountNumber, double balance) {
+        super(accountID, userID, accountNumber, balance, AccountType.CHECKING);
     }
     @Override
     public void deposit(double amount) {

@@ -20,6 +20,7 @@ public class Users implements UsersInterface{
     }
 
     //Setter
+    @Override
     public void setID(int ID) {
         this.ID = ID;
     }
@@ -30,6 +31,7 @@ public class Users implements UsersInterface{
         return name;
     }
 
+    @Override
     //Setter
     public void setName(String name) {
         this.name = name;
@@ -41,6 +43,7 @@ public class Users implements UsersInterface{
         return email;
     }
 
+    @Override
     //Setter
     public void setEmail(String email) {
         this.email = email;
@@ -52,6 +55,7 @@ public class Users implements UsersInterface{
         return password;
     }
 
+    @Override
     //Setter
     public void setPassword(String password) {
         this.password = password;
@@ -59,7 +63,7 @@ public class Users implements UsersInterface{
 
     @Override
     public String toString() {
-        return String.format("[ID : %s | Name : %s | Email : %s | Password : %s ]");
+        return String.format("[ID : %s | Name : %s | Email : %s | Password : %s ]", ID, name, email, password);
     }
 
 }

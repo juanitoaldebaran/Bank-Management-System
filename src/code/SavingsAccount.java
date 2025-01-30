@@ -2,8 +2,8 @@ package code;
 
 public class SavingsAccount extends Account {
 
-        public SavingsAccount(int accountID, int userID, String accountNumber, double balance, AccountType type) {
-        super(accountID, userID, accountNumber, balance, type.SAVINGS);
+        public SavingsAccount(int accountID, int userID, String accountNumber, double balance) {
+        super(accountID, userID, accountNumber, balance, AccountType.SAVINGS);
     }
 
     @Override

@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ec28cf4f-5644-4955-9988-66b6431dd8d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank Management System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bank Management System.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/UsersInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/UsersInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,16 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/juanitosiahaan/Documents/CODING GRIND/JAVA/Projects/Bank Management System/lib",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juanitosiahaan/Documents/CODING GRIND/JAVA/Projects/Bank Management System/lib&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib" />
