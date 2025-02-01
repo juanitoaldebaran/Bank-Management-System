@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ec28cf4f-5644-4955-9988-66b6431dd8d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/CheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/UsersInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/UsersInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/TransactionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/TransactionInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
