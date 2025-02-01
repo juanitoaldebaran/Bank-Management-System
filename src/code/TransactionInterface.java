@@ -13,4 +13,8 @@ public interface TransactionInterface {
     double getAmount();
     void setAmount(double amount);
 
+    String getRecipientAccount();
+    void setRecipientAccount();
+
+    void createTransaction(Transaction transaction);
 }
