@@ -8,3 +8,5 @@ Created by Juanito Aldebaran Siahaan
 
 Enable users to enhance a management system to withdraw, transfer,
 and deposit money. 
+
+Create a database first
